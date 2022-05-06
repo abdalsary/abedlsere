@@ -7,7 +7,7 @@ Ch2 : dev_Yemen
 */
 
 ob_start();
-$API_KEY = '535323374627:AAGFRs77_glqbacCzHcZvV4T4plII5BfnyM55333538466:AAHLwqaXp59GQHkDJkQM3stp51dr-knXoRE9074134:AAH0Q3wm5PGhAWAQZsVl17OuaDSsrmcrViU'; //add your bot token
+$API_KEY = '5323374627:AAGFRs77_glqbacCzHcZvV4T4plII5BfnyM'; //add your bot token
 $bot_id = ايدي البوت; 
 $sudo = ايديك; // add your id
 $e = "@معرف البوت";
